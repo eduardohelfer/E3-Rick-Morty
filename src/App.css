@@ -16,7 +16,7 @@
 
 .App__header {
   text-align: center;
-  background-image: url("RAM-TOPBANNER.png");
+  background-image: url("./public/RAM-TOPBANNER.png");
   justify-content: center;
   background-size: cover;
   background-repeat: no-repeat;
