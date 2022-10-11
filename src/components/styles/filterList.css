@@ -1,0 +1,14 @@
+.popupList {
+  position: absolute;
+  border: 2px solid;
+  border-color: black;
+  background-color: lightslategrey;
+  padding: 8px;
+  z-index: 1;
+  margin-top: 5px;
+  color: white;
+}
+
+.popupList__item {
+  cursor: pointer;
+}
